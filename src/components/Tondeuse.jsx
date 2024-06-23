@@ -18,7 +18,7 @@ function Tondeuse() {
       <FileUpload onFileLoaded={handleFileLoaded} />
       <div>
         {results.map((result, index) => (
-          <p key={index}>Pour la tondeuse {index + 1} [{result.x}, {result.y}] et orientation W {result.orientation}</p>
+          <p key={index}>Pour la tondeuse {index + 1} [{result.x}, {result.y}] et orientation {result.orientation}</p>
         ))}
       </div>
     </div>
