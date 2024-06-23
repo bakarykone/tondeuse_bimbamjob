@@ -12,7 +12,7 @@ git clone https://github.com/bakarykone/tondeuse_bimbamjob.git
 
 ## 2. Installer les dépendances
 ```bash
-cd tondeuse_bimbamjob
+cd tondeuse_bimbamjobb
 npm install
 ```
 
