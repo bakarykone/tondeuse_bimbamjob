@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+input[type="file"] {
+  margin: 20px 0;
+}
+
+p {
+  font-size: 1.2em;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
