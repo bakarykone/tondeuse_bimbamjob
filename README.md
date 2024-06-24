@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## 1. Clôner ce projet
 
 ```bash
-git clone https://github.com/bakarykone/tondeuse_bimbamjob.git
+git clone https://github.com/bakarykone/tondeuse_bimbamjob.git ./tondeuse_bimbamjobb
 ```
 
 ## 2. Installer les dépendances
