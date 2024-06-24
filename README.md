@@ -18,7 +18,7 @@ npm install
 
 ### 3. Lancement de l'application avec sur `npm start`
 ```bash
-npm start
+npm run start
 ```
 
 l'app tourne sur le navigateur en mode de dévelopement sur [http://localhost:3000](http://localhost:3000)
